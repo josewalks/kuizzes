@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T02:33:42.652Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="4qMLD1NHmn7l3ZYv3zeC" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T02:35:03.416Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="HIi9lfsD_5n462fwC7O-" version="15.4.3" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1149" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BYBz-yXb3-FIjVWih9n6-38" value="Display two buttons: &quot;Retake&quot; and &quot;Quit&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="358.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="358.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BYBz-yXb3-FIjVWih9n6-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BYBz-yXb3-FIjVWih9n6-42" target="IqkdjUBLfp_tVH0LKE5V-2">
           <mxGeometry relative="1" as="geometry">
@@ -139,17 +139,22 @@
         </mxCell>
         <mxCell id="BYBz-yXb3-FIjVWih9n6-45" value="Retake" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BYBz-yXb3-FIjVWih9n6-44">
           <mxGeometry x="-0.8595" relative="1" as="geometry">
-            <mxPoint x="-10" y="37" as="offset" />
+            <mxPoint x="-48" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BYBz-yXb3-FIjVWih9n6-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BYBz-yXb3-FIjVWih9n6-42" target="BYBz-yXb3-FIjVWih9n6-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BYBz-yXb3-FIjVWih9n6-51" value="Quit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BYBz-yXb3-FIjVWih9n6-47">
+          <mxGeometry x="-0.4083" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BYBz-yXb3-FIjVWih9n6-42" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="374" width="30" height="29.5" as="geometry" />
+          <mxGeometry x="857" y="374" width="30" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="BYBz-yXb3-FIjVWih9n6-46" value="Go to main page (list of tests)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="895" y="468.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="812" y="468.25" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
